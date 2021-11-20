@@ -24,8 +24,8 @@ Black essence is a hair and beauty booking platform connecting proffessionals wi
 
 
 ### TOOLS USED 
-Images retrived from real life businesses on instagram 
-Pages created using figma 
+- Images retrived from real life businesses on instagram. 
+- Pages created using figma 
 
 ### PAGES
 #### CATEGORY PAGE 
