@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lindsay Ezeagu. I am a recent Software Engineering Graduate.
 - 👀 I’m interested in web development, Artificial intelligence, Data & poetry.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript & Python.
 - 📫 Reach me by sending a DM on [Instagram](https://www.instagram.com/lindsay.tech/) or 
 [Linkedin](https://www.linkedin.com/in/lindsayezeagu/).
 
