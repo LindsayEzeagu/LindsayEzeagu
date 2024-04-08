@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lindsay Ezeagu
-- 👀 I’m interested in web development, Artficial inteligence , UI/UX design & poetry.
-- 🌱 I’m currently learning Javascript & Python.
+- 👀 I’m interested in web development, Artficial inteligence , Data & poetry.
+- 🌱 I’m currently learning Javascript.
 - 📫 Reach me by sending a DM on [Instagram](https://www.instagram.com/lindsay.tech/) or 
 [Linkedin](https://www.linkedin.com/in/lindsayezeagu/).
 
