@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Lindsay Ezeagu
-- 👀 I’m interested in web development, Artficial inteligence , Data & poetry.
+- 👋 Hi, my name is Lindsay Ezeagu. I am a recent Software Engineering Graduate.
+- 👀 I’m interested in web development, Artificial intelligence, Data & poetry.
 - 🌱 I’m currently learning Javascript.
 - 📫 Reach me by sending a DM on [Instagram](https://www.instagram.com/lindsay.tech/) or 
 [Linkedin](https://www.linkedin.com/in/lindsayezeagu/).
@@ -9,22 +9,37 @@ LindsayEzeagu/LindsayEzeagu is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# UI/UX DESIGN 
-## BOOKING APP : BLACK ESSENCE 
+# WIX WEB DEVELOPMENT FREELANCE PROJECTS
+## CHARISSA AKINFENWA - CA CONSULTS & CA CAPTURES 
 
-Black essence is a hair and beauty booking platform connecting proffessionals with customers.
+## CN DESIGN ARCH 
+
+## EVIMERO PARTNERS 
+
+# FINAL YEAR RESEARCH UNIVERSITY PROJECT 
+## Machine-Learning based product recommendation system for the retail industry
+
+# WEB DEVELOPMENT PROJECTS 
+## REACT.JS: PERSONAL WEBSITE
+
+# UI/UX DESIGN PROJECTS 
+## TRACKER TOOL: BID TRACKER 
+
+## BOOKING APP: BLACK ESSENCE 
+
+Black Essence is a hair and beauty booking platform connecting professionals with customers.
 
 ### PROBLEM STATEMENT 
- It is important that while small business may depend highly on social media plateforms to book clients , the harsh relaity is that if any of these plateforms were to crash at any point many businesses will be disconnected from their customers and followers on that social media plateform. We saw an example of this in october where Instagram , facebook & whatsapp crashed for a while ehich lead to many businesses losing money.
+ It is important that while small businesses may depend highly on social media platforms to book clients, the harsh reality is that if any of these platforms were to crash at any point many businesses would be disconnected from their customers and followers on that social media platform. We saw an example of this in October when Instagram, facebook & WhatsApp crashed for a while which led to many businesses losing money.
  
-### what problem is this booking plateform solving?
-- hair and beauty proffessionals are able to reach potential clients that may not use social media plateforms like instagram. 
+### What problem is this booking platform solving?
+- hair and beauty professionals can reach potential clients who may not use social media platforms like Instagram. 
 - People who are visiting the UK on holiday will find it easier to find hair and beauty services. 
 
 
 ### TOOLS USED 
-- Images retrived from real life businesses on instagram. 
-- Pages created using figma 
+- Images retrieved from real-life businesses on Instagram. 
+- Pages created using Figma 
 
 ### PAGES
 #### CATEGORY PAGE 
@@ -34,7 +49,7 @@ Black essence is a hair and beauty booking platform connecting proffessionals wi
 <img width="172" alt="wigs" src="https://user-images.githubusercontent.com/93843883/142599785-451db0b2-2ad9-4ca1-8d8e-174843d9f871.PNG">
 
 #### SERVICE PAGE 
-<img width="170" alt="serviceinfo" src="https://user-images.githubusercontent.com/93843883/142600218-efd46902-33dd-41de-af8f-2a94063dda30.PNG">
+<img width="170" alt="service info" src="https://user-images.githubusercontent.com/93843883/142600218-efd46902-33dd-41de-af8f-2a94063dda30.PNG">
 
 #### CHAT PAGE 
 <img width="167" alt="chat" src="https://user-images.githubusercontent.com/93843883/142600295-5e44d729-7c94-4607-920b-10a6cfbd10c4.PNG">
