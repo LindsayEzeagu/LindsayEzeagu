@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lindsay Ezeagu. I am a recent Software Engineering Graduate.
 - 👀 I’m interested in web development, Artificial intelligence, Data & poetry.
-- 🌱 I’m currently learning Javascript & Python.
+- 🌱 Javascript, Python & SQL (currently learning Java).
 - 📫 Reach me by sending a DM on [Instagram](https://www.instagram.com/lindsay.tech/) or 
 [Linkedin](https://www.linkedin.com/in/lindsayezeagu/).
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 Black Essence is a hair and beauty booking platform connecting professionals with customers.
 
 ### PROBLEM STATEMENT 
- It is important that while small businesses may depend highly on social media platforms to book clients, the harsh reality is that if any of these platforms were to crash at any point many businesses would be disconnected from their customers and followers on that social media platform. We saw an example of this in October when Instagram, facebook & WhatsApp crashed for a while which led to many businesses losing money.
+ It is important that while small businesses may depend highly on social media platforms to book clients, the harsh reality is that if any of these platforms were to crash at any point many businesses would be disconnected from their customers and followers on that social media platform. We saw an example of this in October when Instagram, Facebook & WhatsApp crashed for a while which led to many businesses losing money.
  
 ### What problem is this booking platform solving?
 - hair and beauty professionals can reach potential clients who may not use social media platforms like Instagram. 
