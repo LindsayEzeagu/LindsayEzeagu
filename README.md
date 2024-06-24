@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Lindsay Ezeagu. I am a recent Software Engineering Graduate actively seeking full time employment.
+- 👋 Hi, my name is Lindsay Ezeagu. I am a recent Software Engineering Graduate actively seeking full-time employment.
 - 👀 I’m interested in web dev & design, Artificial intelligence and Data.
-- 🌱 Javascript, Python & SQL (currently learning Java).
+- 🌱 Javascript, Python & SQL.
 - 📫 Reach me by sending a DM on [Instagram](https://www.instagram.com/lindsay.tech/) or 
 [Linkedin](https://www.linkedin.com/in/lindsayezeagu/).
 
